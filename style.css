@@ -1,0 +1,12 @@
+*{}
+body {
+    background-color:honeydew;
+text-align: center;
+text-decoration-color: indianred;
+border: black;}
+h1 {
+    color: lawngreen;
+}
+p {
+    border-style:unset;
+}
